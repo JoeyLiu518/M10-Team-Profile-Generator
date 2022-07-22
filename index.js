@@ -278,6 +278,6 @@ return inquirer.prompt ([
 
 // Const to start everything
 const start = () => {
-    promptNext()
+    teamCreation()
 };
 start();
